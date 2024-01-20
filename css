@@ -1,0 +1,45 @@
+/* Základní reset stylů */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Styl pro celé tělo dokumentu */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Hlavní nadpis */
+h1 {
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* Odstavce */
+p {
+  margin-bottom: 10px;
+}
+
+/* Tlačítka */
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Tlačítko při najetí myší */
+button:hover {
+  background-color: #555;
+}
+
+/* Odkazy */
+a {
+  color: #333;
+  text-decoration: none;
+}
