@@ -89,6 +89,11 @@ a {
   text-decoration: none;
 }
 
+a {
+  color: #333;
+  text-decoration: none;
+}
+
 /* Odkazy */
 a {
   color: #333;
