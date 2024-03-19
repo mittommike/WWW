@@ -27,6 +27,15 @@ button {
   cursor: pointer;
 }
 
+/* Tlačítka */
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
 /* Tlačítko při najetí myší */
 button:hover {
   background-color: #555;
